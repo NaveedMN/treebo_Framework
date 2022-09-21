@@ -22,6 +22,7 @@ public class FileUtility {
 	 * @throws IOException 
 	 */
 	public String getDataFromPropertyFile(String key) throws IOException {
+		//changes done 1
 
 
 		String value = properties.getProperty(key).trim();
