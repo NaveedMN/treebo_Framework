@@ -55,11 +55,11 @@ public class BaseClass {
 		Java java = new Java();
 		 webDriverUtility = new WebDriverUtility();
 		 sjava=java;
-<<<<<<< HEAD
+
 		 //Test eng-2
-=======
+
 		 //changes done by Test Eng-1
->>>>>>> branch 'master' of https://github.com/NaveedMN/treebo.git
+  
 
 		//initilize the property file
 		 
